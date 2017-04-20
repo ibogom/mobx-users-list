@@ -1,0 +1,9 @@
+
+#app-wrapper {
+  width: 100%;
+  position: relative;
+  transition: all 200ms ease;
+  &.show-search{
+    transform: translateX(-50%);
+  }
+}
