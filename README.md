@@ -1,16 +1,5 @@
 # mobx-users-list
 
-
-## Developer Take Home Test
-
-To test your ability as a full stack JavaScript engineer, we decided not not give you a problem with Binary Trees, Linked Lists or string manipulation. Instead we'll ask you to build a webapp that you must create on your own that reflects a real use case.
-
- This is not specifically a UI test so feel free to make the UI as nice or sparse as you have the time for. 
-
-Techstack for this app should be based on ReactJS, MobX (state management), material-ui (UI components)
-
-The application is a simple user management postal with filter ability.
-
 ### Features:
 
 #### Add new user
